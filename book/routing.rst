@@ -1070,8 +1070,7 @@ from the new routing resource.
 .. tip::
 
     You can also define routes using annotations. See the
-    :doc:`FrameworkExtraBundle documentation </bundles/SensioFrameworkExtraBundle/annotations/routing>`
-    to see how.
+    `FrameworkExtraBundle documentation`_ to see how.
 
 Adding a Host Requirement to Imported Routes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1298,3 +1297,4 @@ Learn more from the Cookbook
 * :doc:`/cookbook/routing/scheme`
 
 .. _`FOSJsRoutingBundle`: https://github.com/FriendsOfSymfony/FOSJsRoutingBundle
+.. _`FrameworkExtraBundle documentation`: http://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/annotations/routing.html

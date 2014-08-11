@@ -552,9 +552,7 @@ The Symfony templating engine is explained in great detail in the
 .. tip::
 
     You can even avoid calling the ``render`` method by using the ``@Template``
-    annotation. See the
-    :doc:`FrameworkExtraBundle documentation </bundles/SensioFrameworkExtraBundle/annotations/view>`
-    more details.
+    annotation. See the `FrameworkExtraBundle documentation`_ more details.
 
 .. tip::
 
@@ -826,3 +824,5 @@ Learn more from the Cookbook
 
 * :doc:`/cookbook/controller/error_pages`
 * :doc:`/cookbook/controller/service`
+
+.. _`FrameworkExtraBundle documentation`: http://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/annotations/view.html
